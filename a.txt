@@ -1,1 +1,7 @@
 I like you,but just like you!
+<<<<<<< HEAD
+=======
+
+我不喜欢你的狗粮
+再见
+>>>>>>> salve1
